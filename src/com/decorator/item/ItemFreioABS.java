@@ -1,4 +1,4 @@
-package com.decorator.elemento;
+package com.decorator.item;
 
 import com.decorator.modelo.Carro;
 

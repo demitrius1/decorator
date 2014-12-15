@@ -1,7 +1,7 @@
 package com.decorator.app;
 
-import com.decorator.elemento.ItemArCondicionado;
-import com.decorator.elemento.ItemFreioABS;
+import com.decorator.item.ItemArCondicionado;
+import com.decorator.item.ItemFreioABS;
 import com.decorator.modelo.Carro;
 import com.decorator.modelo.ModeloBasico;
 import com.decorator.modelo.ModeloCompleto;
