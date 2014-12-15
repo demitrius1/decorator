@@ -1,4 +1,4 @@
-package com.decorator.componente;
+package com.decorator.modelo;
 
 public class ModeloBasico extends Carro {
 

@@ -1,6 +1,6 @@
 package com.decorator.elemento;
 
-import com.decorator.componente.Carro;
+import com.decorator.modelo.Carro;
 
 public class ItemFreioABS extends Item {
 

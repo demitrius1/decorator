@@ -1,4 +1,4 @@
-package com.decorator.componente;
+package com.decorator.modelo;
 
 public abstract class Carro {
 

@@ -1,10 +1,10 @@
 package com.decorator.app;
 
-import com.decorator.componente.Carro;
-import com.decorator.componente.ModeloBasico;
-import com.decorator.componente.ModeloCompleto;
 import com.decorator.elemento.ItemArCondicionado;
 import com.decorator.elemento.ItemFreioABS;
+import com.decorator.modelo.Carro;
+import com.decorator.modelo.ModeloBasico;
+import com.decorator.modelo.ModeloCompleto;
 
 public class Concessionaria {
 
